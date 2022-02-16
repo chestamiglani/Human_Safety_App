@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Human Safety App</string>
+    <string name="add_emergency_contact">Add Emergency Contact</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="human_safety_app">Human Safety App</string>
+    <string name="by_chesta_miglani">by Chesta Miglani</string>
+</resources>
